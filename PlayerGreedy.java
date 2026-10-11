@@ -13,9 +13,6 @@
  * this player. Then (2,4) is returned, since the rows are tied, but (2,4) has
  * the smaller column.
  * 
- * See the examples supplied in the assignment handout.
- * 
- * @author arnold
  *
  */
 
