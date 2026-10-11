@@ -1,16 +1,3 @@
-/**
- * Determine whether the first player or second player has the advantage when
- * both are playing a Random Strategy.
- * 
- * Do this by creating two players which use a random strategy and have them
- * play each other for 10000 games. What is your conclusion, does the first or
- * second player have some advantage, at least for a random strategy? 
- * State the null hypothesis H0, the alternate hypothesis Ha and 
- * about which your experimental results support. Place your short report in
- * randomVsRandomReport.txt.
- *
- *
- */
 public class OthelloControllerRandomVSRandom {
 	/**
 	 * Run main to execute the simulation and print out the two line results.
