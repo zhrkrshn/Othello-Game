@@ -1,13 +1,6 @@
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-
-/**
- * TODO: Document this class and make minimal changes as necessary.
- * 
- * @author arnold
- *
- */
 public class PlayerHuman {
 	
 	private static final String INVALID_INPUT_MESSAGE = "Invalid number, please enter 1-8";
