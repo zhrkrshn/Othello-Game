@@ -8,8 +8,7 @@
  * State the null hypothesis H0, the alternate hypothesis Ha and 
  * about which your experimental results support. Place your short report in
  * randomVsRandomReport.txt.
- * 
- * @author arnold
+ *
  *
  */
 public class OthelloControllerRandomVSRandom {
