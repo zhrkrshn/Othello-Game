@@ -10,14 +10,6 @@ public class OthelloControllerHumanVSGreedy {
 	PlayerHuman player1;
 	PlayerGreedy player2;
 
-	/**
-	 * Run main to play a Human (P1) against the computer P2.
-	 * The computer uses a greedy strategy, that is, it picks the first
-	 * move which maximizes its number of token on the board.
-	 * The output should be almost identical to that of OthelloControllerHumanVSHuman.
-	 *
-	 * @param args
-	 */
 	public OthelloControllerHumanVSGreedy() {
 		this.othello = new Othello();
 		this.player1 = new PlayerHuman(this.othello, OthelloBoard.P1);
