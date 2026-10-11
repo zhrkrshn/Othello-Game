@@ -9,3 +9,6 @@ The rules of Othello can be found [here](https://www.worldothello.org/about/abou
 
 ## Versus What?
 This game lets you play against a random bot, a greedy bot, or another human!
+
+## Thanks
+I would like to thank H. Wang and B. Hardie for their contributions to some of the methods of this project.
