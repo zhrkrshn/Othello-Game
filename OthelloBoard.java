@@ -8,7 +8,6 @@
  * 
  * Othello makes use of the OthelloBoard.
  * 
- * @author arnold
  *
  */
 public class OthelloBoard {
