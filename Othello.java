@@ -11,7 +11,6 @@ import java.util.Random;
  * See the following for a short, simple introduction.
  * https://www.youtube.com/watch?v=Ol3Id7xYsY4
  * 
- * @author arnold
  *
  */
 public class Othello {
