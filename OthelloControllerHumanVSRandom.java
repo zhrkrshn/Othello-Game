@@ -10,14 +10,6 @@ public class OthelloControllerHumanVSRandom {
 	PlayerHuman player1;
 	PlayerRandom player2;
 
-	/**
-	 * Run main to play a Human (P1) against the computer P2. 
-	 * The computer uses a random strategy, that is, it randomly picks 
-	 * one of its possible moves.
-	 * The output should be almost identical to that of OthelloControllerHumanVSHuman.
-
-	 * @param args
-	 */
 	public OthelloControllerHumanVSRandom(){
 		this.othello = new Othello();
 
