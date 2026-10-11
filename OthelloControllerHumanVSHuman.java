@@ -2,7 +2,6 @@
  * Run the main from this class to play two humans against eachother. Only
  * minimal modifications to this class are permitted.
  * 
- * @author arnold
  *
  */
 public class OthelloControllerHumanVSHuman {
