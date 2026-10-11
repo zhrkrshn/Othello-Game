@@ -1,11 +1,4 @@
 public class OthelloControllerRandomVSRandom {
-	/**
-	 * Run main to execute the simulation and print out the two line results.
-	 * Output looks like 
-	 * Probability P1 wins=.75 
-	 * Probability P2 wins=.20
-	 * @param args
-	 */
 	public static void main(String[] args) {
 		
 		int p1wins = 0, p2wins = 0, numGames = 10000;
