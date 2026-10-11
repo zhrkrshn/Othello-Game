@@ -1,6 +1,5 @@
 /**
  * 
- * @author arnold
  *
  */
 // TODO: Javadoc this class
